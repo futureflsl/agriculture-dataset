@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>香蕉叶子病害识别分割数据集labelme格式904张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5ZvbQ==">下载</a></td></tr>
+<tr><td>香蕉叶子病害检测数据集VOC+YOLO格式6113张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5ZsaA==">下载</a></td></tr>
+<tr><td>香蕉叶子病害分类数据集898张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5Zpaw==">下载</a></td></tr>
 <tr><td>发霉橙子橘子好坏检测数据集VOC+YOLO格式3039张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpdwaw==">下载</a></td></tr>
 <tr><td>玉米粒质量好坏检测数据集VOC+YOLO格式1337张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59sZA==">下载</a></td></tr>
 <tr><td>智慧养殖羊圈羊行为识别羊状态检测数据集VOC+YOLO格式9652张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59rag==">下载</a></td></tr>
