@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业棉花不同生长阶段花蕾棉桃检测数据集VOC+YOLO格式3831张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZubA==">下载</a></td></tr>
+<tr><td>熟棉花检测数据集VOC+YOLO格式767张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZraA==">下载</a></td></tr>
 <tr><td>玉米叶子病害检测数据集VOC+YOLO格式4154张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJhxaQ==">下载</a></td></tr>
 <tr><td>13种植物叶片叶子病害检测数据集VOC+YOLO格式2258张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJdsag==">下载</a></td></tr>
 <tr><td>番茄叶片病害识别分割数据集labelme格式5000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1qZg==">下载</a></td></tr>
