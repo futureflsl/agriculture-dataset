@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角智慧农业田间作物与杂草识别分割数据集labelme格式1359张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWamphqaQ==">下载</a></td></tr>
 <tr><td>智慧果园树上腰果成熟度检测数据集VOC+YOLO格式4700张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdwbQ==">下载</a></td></tr>
 <tr><td>梨子病害检测数据集VOC+YOLO格式1854张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdwbA==">下载</a></td></tr>
 <tr><td>智慧农业玉米叶子中心部位区域检测数据集VOC+YOLO格式471张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrag==">下载</a></td></tr>
